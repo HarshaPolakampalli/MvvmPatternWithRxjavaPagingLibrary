@@ -8,10 +8,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 object MovieClient {
-    // https://api.themoviedb.org/3/movie/475430?api_key=7437e67bfd35c43f516f7ba0657175a1
 
-
-    const val APIKEY="7437e67bfd35c43f516f7ba0657175a1"
+    const val APIKEY="Please Replace Your Key Here"
 
     const val BASEURL="https://api.themoviedb.org/3/"
 
